@@ -77,3 +77,20 @@
     border-radius: 8px;
 
 }
+
+@media only screen and (max-width: 500px){
+    #scoreBox{
+        position: absolute;
+        top: 9px;
+        right: 100px;
+        font-size: 30px;
+    }
+    
+    #hiscoreBox{
+        position: absolute;
+        top: 59px;
+        right: 50px;
+        font-size: 30px;
+      
+    }  
+}
